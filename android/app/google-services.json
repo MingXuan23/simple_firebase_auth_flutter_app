@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "116203780529",
+    "firebase_url": "https://wsmb-try1-default-rtdb.firebaseio.com",
+    "project_id": "wsmb-try1",
+    "storage_bucket": "wsmb-try1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116203780529:android:e93d3d26f6aeb69ed42590",
+        "android_client_info": {
+          "package_name": "com.example.firebase_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHXMst_wC3SHsEBkwhcbhm7BnCGDuFyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116203780529:android:a5de42f1550b7d06d42590",
+        "android_client_info": {
+          "package_name": "com.example.wsmb_day1_try1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHXMst_wC3SHsEBkwhcbhm7BnCGDuFyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
